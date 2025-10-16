@@ -4,10 +4,8 @@ I'm currently pursuing an **MSc** in **Mathematical Modelling** and **Scientific
 
 Projects I’ve worked on include:
 - Applying **Gaussian Processes** to model **Gravitational Wave** data
-- Simulating **fish population dynamics** using nonlinear ODE systems
+- Modelling **fish population dynamics** using nonlinear ODE systems
 - Numerically solving PDEs related to **aquifer modeling**
-- Exploring **image encryption** using chaotic dynamical systems
-- Backtesting **trading strategies** using statistical tools
 
 
 <!-- Optionally add GitHub stats card or contact links here -->
